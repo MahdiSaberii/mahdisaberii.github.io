@@ -37,9 +37,7 @@ portrait_caption: >-
 education:
 - name: University of Minnesota
   logo: /assets/images/badges/umn_badge.png
-  position: >- 
-    Department of Electrical and Computer Engineering <br/>
-    Ph.D. Candidate
+  position: Ph.D. in Electical Engineering 
   date: Sep. 2022 - Present
 - name: University of Minnesota
   logo: /assets/images/badges/umn_badge.png
