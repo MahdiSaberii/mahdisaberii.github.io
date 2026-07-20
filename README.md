@@ -1,4 +1,4 @@
-# academic-homepage
+# Mahdi Saberi CV
 
 [![Preview](assets/images/etc/preview.png)](https://luost26.github.io/academic-homepage/)
 
