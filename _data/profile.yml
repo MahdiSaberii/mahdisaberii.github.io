@@ -28,15 +28,15 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: University of Minnesota
+- name: University of Minnesota, Minnesota, US
   logo: /assets/images/badges/umn_badge.png
   position: Ph.D. in Electical Engineering 
   date: Sep. 2022 - Present
-- name: University of Minnesota
+- name: University of Minnesota, Minnesota, US
   logo: /assets/images/badges/umn_badge.png
   position: M.Sc. in Electical Engineering 
   date: Sep. 2022 - May 2025
-- name: University of Tehran
+- name: University of Tehran, Tehran, Iran
   logo: /assets/images/badges/ut_badge.png
   position: B.Sc. in Electical Engineering 
   date: Sep. 2017 - Sep. 2021
