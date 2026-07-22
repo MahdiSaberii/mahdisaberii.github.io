@@ -4,7 +4,7 @@ navbar_name: "Mahdi Saberi"
 
 positions:
 - name: Ph.D. Candidate, University of Minnesota  
-  logo: /assets/images/badges/umn_badge.png  # Logo is optional
+  # logo: /assets/images/badges/umn_badge.png  # Logo is optional
 
 
 email: "saber032@umn.edu"
