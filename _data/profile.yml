@@ -14,7 +14,7 @@ github: MahdiSaberii
 # orcid: 0009-0008-9477-5304
 # cv_link: link-to-your-cv-file
 
-short_bio_text_justify: false
+short_bio_text_justify: True
 short_bio: >-
   My name is Mahdi Saberi, and I am a Ph.D. candidate in Electrical Engineering department at the University of
   Minnesota, US. I work with <a href="https://cse.umn.edu/ece/mehmet-akcakaya" target="_blank" rel="noopener">Mehmet Akçakaya</a> at the Center for
