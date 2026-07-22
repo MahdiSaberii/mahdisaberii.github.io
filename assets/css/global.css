@@ -91,3 +91,8 @@ div.lazy {
 .email-text {
     font-family: Source Code Pro, monospace;
 }
+
+.media-logo {
+    width: 40px;
+    margin-left: -6px;
+}
