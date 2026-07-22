@@ -16,6 +16,17 @@ github: MahdiSaberii
 
 short_bio_text_justify: false
 short_bio: >-
+  I am a Ph.D. candidate in Electrical Engineering at the University of
+  Minnesota, where I work with Prof. Mehmet Akçakaya at the Center for
+  Magnetic Resonance Research (CMRR). My research focuses on physics-guided
+  deep learning for medical image reconstruction, with an emphasis on
+  accelerated MRI, inverse problems, and trustworthy AI for medical imaging.
+  My work has been published at leading AI and medical imaging venues,
+  including ICML, ISBI, ISMRM, and IEEE MLSP, and has been recognized with
+  several awards and oral presentations. Through this research, I've
+  developed deep expertise in deep learning, optimization, computational
+  imaging, and MRI physics, and I'm passionate about applying these tools to
+  real-world healthcare challenges.
   
 
 portrait_url: /assets/images/photos/portrait.jpg
