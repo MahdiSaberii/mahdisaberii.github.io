@@ -4,7 +4,7 @@ date: 2026-01-01 00:01:00 +0000
 selected: true
 
 pub: "IEEE International Workshop on Machine Learning for Signal Processing (MLSP)"
-pub_post: "Accepted"
+# pub_post: "Accepted"
 
 pub_date: "2026"
 
