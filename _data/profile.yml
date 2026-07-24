@@ -18,7 +18,7 @@ short_bio_text_justify: True
 short_bio: >-
   My name is Mahdi Saberi, and I am a Ph.D. candidate in Electrical Engineering department at the University of
   Minnesota, US. I work with <a href="https://cse.umn.edu/ece/mehmet-akcakaya" target="_blank" rel="noopener">Mehmet Akçakaya</a> at the Center for
-  Magnetic Resonance Research (CMRR). My research focuses on physics-guided deep learning for accelerated MRI reconstruction, inverse problems, and trustworthy AI in medical imaging, with the goal of developing reliable and clinically applicable imaging methods. My work has appeared in leading AI and medical imaging venues, including ICML, ISMRM, ISBI, EMBC, and MLSP, and has contributed to patented MRI reconstruction technologies while also receiving recognition through multiple awards, invited papers, and oral presentations.
+  Magnetic Resonance Research (CMRR). My research focuses on physics-guided deep learning for accelerated MRI reconstruction, inverse problems, and trustworthy AI in medical imaging, with the goal of developing reliable and clinically applicable imaging methods. My work has appeared in leading AI and medical imaging venues, including ICML, ISMRM, ISBI, EMBC, and MLSP, and has has led to patented technologies as well as multiple awards, invited papers, and oral presentations.
   
 
 portrait_url: /assets/images/photos/portrait.jpg
