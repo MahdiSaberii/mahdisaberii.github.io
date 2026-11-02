@@ -22,14 +22,11 @@ abstract: >
   measurements with auxiliary k-space magnitude information from neighboring
   time frames, without additional scan time. Leveraging temporal consistency
   of k-space magnitudes, the method incorporates a magnitude-aware
-  data-fidelity term into an ADMM-unrolled network, using quadratic smoothing
-  and momentum-based optimization to handle non-differentiable and nonconvex
-  magnitude constraints. Evaluations on retrospectively undersampled cine
+  data-fidelity term into an ADMM-unrolled network. Evaluations on retrospectively undersampled cine
   and phase-contrast flow MRI, alongside prospectively undersampled real-time
   cine acquisitions, demonstrated improved artifact suppression, sharper
   anatomical recovery, and better phase preservation compared with
-  conventional physics-driven deep learning, supported by blinded expert
-  reader assessments.
+  conventional physics-driven deep learning.
   
 
 links:
