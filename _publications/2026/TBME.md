@@ -7,7 +7,7 @@ selected: true
 pub: "IEEE Transactions on Biomedical Engineering (TBME)"
 pub_date: "2026"
 
-cover: /assets/images/covers/ISBI_MI.png
+cover: /assets/images/covers/TBME.png
 
 authors:
   - Mahdi Saberi
