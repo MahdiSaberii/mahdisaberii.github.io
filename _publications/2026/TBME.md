@@ -34,5 +34,5 @@ abstract: >
 
 links:
   Paper: "https://ieeexplore.ieee.org/abstract/document/11735101"
-  arxix: "https://arxiv.org/abs/2608.18036"
+  ArXiv: "https://arxiv.org/abs/2608.18036"
 ---
